@@ -21,6 +21,7 @@ Arguments can be viewed with `$ ./server -h`
 
 Arguments can be viewed with `$ python main.py -h`
 
+**Format for runing the commands -:**
 new 1201 Banglore Delhi 8:00 20 10000
 
 find_destinations Manglore

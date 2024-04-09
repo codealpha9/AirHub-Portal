@@ -1,5 +1,4 @@
-
-Flight Management Client-Server
+AirHub Portal
 
 It is a flight management and dispatching system implemented as a distributed application using Go for the server-side and Python for the client-side. The system is designed to handle various operations related to managing flights, such as creating, updating, retrieving, and deleting flight records. It employs a client-server architecture, where the server handles the core logic and database interactions, and the client communicates with the server through API calls to perform operations on flights. The system is built with a focus on scalability, fault tolerance, and performance, making it suitable for managing flight operations in a distributed environment.
 ## Running
